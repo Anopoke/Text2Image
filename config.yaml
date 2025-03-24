@@ -1,0 +1,11 @@
+model_path: D:\transformers\stable-diffusion-3.5-large-turbo
+prompts:
+  - "A capybara holding a sign that reads 'Hello Fast World'."
+  - "一只水豚举着一个牌子，上面写着：你好，世界。"
+  - "A red sports car was driving in the sun by the sea."
+  - "一辆红色的跑车在海边的阳光下行驶。"
+num_inference_steps: 6
+guidance_scale: 0.7
+width: 1024
+height: 1024
+num_images_per_prompt: 1
