@@ -1,4 +1,4 @@
-# Project: Text-to-Image model evaluation
+# Text-to-Image model evaluation
 
 ## Introduction
 
@@ -12,26 +12,25 @@
 4. GPU: NVIDIA GeForce RTX 3060 Laptop
 5. Video memory: 6GiB
 
-### ** SD3.5 Large Turbo **
+#### SD3.5 Large Turbo
 
 Prompt: A capybara holding a sign that reads 'Hello Fast World'.
 
-[//]: # (![]&#40;https://github.com/Anopoke/Text2Image/blob/main/statics/images/sd35lt_1.png&#41;)
-![A capybara holding a sign that reads 'Hello Fast World'.](./statics/images/sd35lt_0.png)
+<img src="./statics/images/sd35lt_0.png" alt="" style="zoom:60%;"/>
 
 ---
 
 Prompt: 一只水豚举着一个牌子，上面写着：你好，世界。
-![一只水豚举着一个牌子，上面写着：你好，世界。](./statics/images/sd35lt_1.png)
+<img src="./statics/images/sd35lt_1.png" alt="" style="zoom:60%;"/>
 
 ---
 
 Prompt: A red sports car was driving in the sun by the sea.
 
-![A red sports car was driving in the sun by the sea.](./statics/images/sd35lt_2.png)
+<img src="./statics/images/sd35lt_2.png" alt="" style="zoom:60%;"/>
 
 ---
 
 Prompt: 一辆红色的跑车在海边的阳光下行驶。
 
-![一辆红色的跑车在海边的阳光下行驶。](./statics/images/sd35lt_3.png)
+<img src="./statics/images/sd35lt_3.png" alt="" style="zoom:60%;"/>
