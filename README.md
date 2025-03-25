@@ -16,27 +16,21 @@
 
 Prompt: A capybara holding a sign that reads 'Hello Fast World'.
 
-<div style="margin:0 auto">
-<img src="./statics/images/sd35lt_0.png" alt="" style="zoom:60%;"/>
-</div>
+![A capybara holding a sign that reads 'Hello Fast World'.](./statics/images/sd35lt_0.png)
 
 ---
 
 Prompt: 一只水豚举着一个牌子，上面写着：你好，世界。
-<div style="margin:0 auto">
-<img src="./statics/images/sd35lt_1.png" alt="" style="zoom:60%;"/>
-</div>
+![一只水豚举着一个牌子，上面写着：你好，世界。](./statics/images/sd35lt_1.png)
 
 ---
 
 Prompt: A red sports car was driving in the sun by the sea.
-<div style="margin:0 auto">
-<img src="./statics/images/sd35lt_2.png" alt="" style="zoom:60%;"/>
-</div>
+
+![A red sports car was driving in the sun by the sea.](./statics/images/sd35lt_2.png)
 
 ---
 
 Prompt: 一辆红色的跑车在海边的阳光下行驶。
-<div style="margin:0 auto">
-<img src="./statics/images/sd35lt_3.png" alt="" style="zoom:60%;"/>
-</div>
+
+![一辆红色的跑车在海边的阳光下行驶。](./statics/images/sd35lt_3.png)
